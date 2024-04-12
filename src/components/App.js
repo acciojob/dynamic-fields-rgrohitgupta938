@@ -46,7 +46,7 @@ const App = () => {
             <button onClick={() => handleRemove(inx)}>Remove</button>
           </div>
         ))}
-        <button onClick={handleAddField}>Add more..</button>
+        <button onClick={handleAddField}>Add More..</button>
         <button type="submit">Submit</button>
       </form>
     </div>
